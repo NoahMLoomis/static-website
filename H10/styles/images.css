@@ -1,0 +1,15 @@
+main{
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;
+}
+span {
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;
+}
+span img{
+    width: 70%;
+}
